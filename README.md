@@ -27,7 +27,7 @@ A simple and responsive web application that helps users find recipes based on i
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Padmaja3457/recipe_finder.git
+git clone https://github.com/Padmaja3457/recipe_book.git
 cd recipe_finder
 ```
 ### 2. Open in Browser
@@ -38,7 +38,7 @@ start index.html    # For Windows
 open index.html     # For macOS
 ```
 ### ✨ Live Demo
-https://padmaja3457.github.io/recipe_finder/
+https://padmaja3457.github.io/recipe_book/
 
 ### 📄 License
 This project is licensed under the MIT License.
